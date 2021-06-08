@@ -9,9 +9,9 @@
 
 🤸 Gymnast and dancer on spare times
 
-❓ Want to know more about me? You can always contact me via my social media accounts!
+❓ Want to know more about me? You can always contact me via Linkedin!
 
-## Social media
+## Linkedin
 [![image](https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png)](https://www.linkedin.com/in/alexandra-de-carvalho/)
 
 ## My weekly Waka stats
