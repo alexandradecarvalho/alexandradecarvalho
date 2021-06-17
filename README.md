@@ -9,4 +9,5 @@
 
 🤸 Gymnast and dancer on spare time
 
-<img src="https://github-readme-stats.vercel.app/api?username=alexandradecarvalho&show_icons=true&theme=vue&include_all_commits=true&count_private=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandradecarvalho&layout=compact&theme=vue" >
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=alexandradecarvalho&show_icons=true&theme=vue&include_all_commits=true&count_private=true">
