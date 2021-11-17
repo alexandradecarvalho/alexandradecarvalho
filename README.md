@@ -1,7 +1,9 @@
 ## Hi there 👋
 👩‍💻 I'm Alexa!  
 
-📚 Studying at University of Aveiro, in the third (last) year of Informatics Engineering
+📚 I have taken a Bachelors Degree in Informatics Engineering
+
+📚 Currently studying at University of Aveiro, in the first year of Data Science Masters
 
 💻 Enjoying a lot working with Python
 
