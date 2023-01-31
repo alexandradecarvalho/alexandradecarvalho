@@ -1,12 +1,8 @@
 ## Hi there 👋
 👩‍💻 I'm Alexa!  
 
-📚 I have taken a Bachelors Degree in Informatics Engineering
+📚 I have taken a Bachelors Degree in Software Engineering
 
-📚 Currently studying at University of Aveiro, in the first year of Data Science Masters
+📚 Currently working on my thesis of the Masters in Data Science at University of Aveiro. 
 
-💻 Enjoying a lot working with Python
-
-💬 I love to work with others, and to discuss coding and other passions of mine
-
-🤸 Gymnast and dancer on spare time
+🤸 Gymnast and dancer on spare times
